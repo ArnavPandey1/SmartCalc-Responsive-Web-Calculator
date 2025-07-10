@@ -1,5 +1,5 @@
 
-SmartCalc-Responsive-Web-Calculator:-
+<h1 align="center">🚀 SmartCalc – Responsive Web Calculator</h1>
 
 A sleek and responsive web-based calculator built with HTML, CSS, and JavaScript. Designed to mimic the look and feel of a modern mobile calculator, it supports basic arithmetic operations with a smooth UI and mobile-first responsiveness.
 
