@@ -1,24 +1,26 @@
 
-SmartCalc-Responsive-Web-Calculator
-🧮 Simple Responsive Calculator
+SmartCalc-Responsive-Web-Calculator:-
+
 A sleek and responsive web-based calculator built with HTML, CSS, and JavaScript. Designed to mimic the look and feel of a modern mobile calculator, it supports basic arithmetic operations with a smooth UI and mobile-first responsiveness.
 
-✨ Features
-Responsive design optimized for mobile, tablet, and desktop
+✨ Features:-
 
-Basic arithmetic operations: addition, subtraction, multiplication, division, modulo
+:-Responsive design optimized for mobile, tablet, and desktop
 
-Clear (C) and evaluate (=) functionality
+:-Basic arithmetic operations: addition, subtraction, multiplication, division, modulo
 
-Styled with media queries for different screen sizes
+:-Clear (C) and evaluate (=) functionality
 
-Animated button press effects
+:-Styled with media queries for different screen sizes
 
-Minimal and clean UI
+:-Animated button press effects
 
-📁 Technologies Used
-HTML5
+:-Minimal and clean UI
 
-CSS3 (with media queries for responsiveness)
+📁 Technologies Used:-
 
-Vanilla JavaScript (eval() for expression evaluation)
+:-HTML5
+
+:-CSS3 (with media queries for responsiveness)
+
+:-Vanilla JavaScript (eval() for expression evaluation)
